@@ -11,4 +11,4 @@ deftest a-test
 
 deftest b-test
   testing "|with alpha"
-    is $ = (hsl 1 2 3 0.7) "|hsl(1,2%,3%,0.7)"
+    is $ = (hsl 1 2 3 0.7) "|hsla(1,2%,3%,0.7)"

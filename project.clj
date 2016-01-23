@@ -1,4 +1,4 @@
-(defproject mvc-works/hsl "0.1.1"
+(defproject mvc-works/hsl "0.1.2"
   :description "Tiny HSL function"
   :url "http://github.com/mvc-works/hsl.clj"
   :license {:name "Eclipse Public License"
